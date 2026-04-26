@@ -30,6 +30,7 @@ README.md
 latest.json
 notes/
   0.1.0.md
+  0.2.0.md
   0.0.196.md
   0.0.197.md
   _template.md
