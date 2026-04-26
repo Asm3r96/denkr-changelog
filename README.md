@@ -29,10 +29,7 @@ denkr should feel modern, quiet, dark, mobile-native, and personal. It should no
 README.md
 latest.json
 notes/
-  0.1.0.md
   0.2.0.md
-  0.0.196.md
-  0.0.197.md
   _template.md
 ```
 
@@ -69,7 +66,7 @@ That shape is easier for testers to scan and easier for agents to reason over.
 1. Build a signed Android release APK from the private `denkr` app repo
 2. Create or update `notes/<version>.md`
 3. Update `latest.json`
-4. Create a GitHub Release tagged like `android-v0.0.196`
+4. Create a GitHub Release tagged like `android-v0.2.0`
 5. Upload the APK asset to that release
 6. Confirm the URLs in `latest.json` point to the uploaded release asset and raw markdown note
 
