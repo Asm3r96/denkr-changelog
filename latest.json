@@ -6,6 +6,6 @@
   "publishedAt": "2026-05-03T00:00:00Z",
   "required": false,
   "apkUrl": "https://github.com/Asm3r96/denkr-changelog/releases/download/android-v0.3.0/denkr-0.3.0.apk",
-  "releasePageUrl": "https://github.com/Asm3r96/denkr-changelog/releases/tag/android-v0.3.0",
+  "releasePageUrl": "https://github.com/Asm3r96/denkr-changelog/releases/download/android-v0.3.0/denkr-0.3.0.apk",
   "notesUrl": "https://raw.githubusercontent.com/Asm3r96/denkr-changelog/main/notes/0.3.0.md"
 }
