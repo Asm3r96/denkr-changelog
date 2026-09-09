@@ -29,6 +29,7 @@ denkr should feel modern, quiet, dark, mobile-native, and personal. It should no
 README.md
 latest.json
 notes/
+  0.7.0.md
   0.6.0.md
   0.5.0.md
   0.4.0.md
