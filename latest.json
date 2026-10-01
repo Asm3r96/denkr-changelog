@@ -1,11 +1,11 @@
 {
   "channel": "beta",
   "platform": "android",
-  "version": "0.8.0",
-  "versionCode": 8000,
-  "publishedAt": "2026-10-01T18:44:39Z",
+  "version": "0.9.0",
+  "versionCode": 9000,
+  "publishedAt": "2026-10-01T19:08:43Z",
   "required": false,
-  "apkUrl": "https://github.com/Asm3r96/denkr-changelog/releases/download/android-v0.8.0/denkr-0.8.0.apk",
-  "releasePageUrl": "https://github.com/Asm3r96/denkr-changelog/releases/tag/android-v0.8.0",
-  "notesUrl": "https://raw.githubusercontent.com/Asm3r96/denkr-changelog/main/notes/0.8.0.md"
+  "apkUrl": "https://github.com/Asm3r96/denkr-changelog/releases/download/android-v0.9.0/denkr-0.9.0.apk",
+  "releasePageUrl": "https://github.com/Asm3r96/denkr-changelog/releases/tag/android-v0.9.0",
+  "notesUrl": "https://raw.githubusercontent.com/Asm3r96/denkr-changelog/main/notes/0.9.0.md"
 }
